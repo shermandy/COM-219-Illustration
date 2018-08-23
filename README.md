@@ -17,24 +17,35 @@ By the end of this course, you will have a practical understanding of the tools 
 
 | Upon successful completion of this course, the student should be able to: | Observable outcome | Dept. objective |
 | --- | --- | --- |
-| 1. Apply appropriate functions of Adobe Photoshop and Illustrator for the creation of digital illustration for use in print and electronic media | Assign. 1<br/>Exam 1<br/>Final project | 2, 3, 5 |
-| 2. Apply appropriate techniques used for the creation of digital images | Assign. 1, 2<br/>Exam 1<br/>Final project | 2, 3, 5 |
-| 3. Critique designs used in print and electronic media | Assign. 3, 4<br/>Exam 1<br/>Final project | 2, 9 |
+| 1. Apply appropriate functions of electronic tools for the creation of digital illustrations for use in various media | Assign. 1<br/>Exam 1<br/>Final project | 2, 3, 5 |
+| 2. Apply appropriate techniques used for the creation of illustrations | Assign. 1, 2<br/>Exam 1<br/>Final project | 2, 3, 5 |
+| 3. Critique designs used in various media | Assign. 3, 4<br/>Exam 1<br/>Final project | 2, 9 |
 | 4. Apply appropriate applications and techniques for effective visual communication | Assign. 5<br/>Exam 1 | 2, 3, 5 |
+| 5. Apply the complete design process to the creation of illustration | All |
 
 ### Learning outcomes
 
-Students are evaluated across several areas, as described in the tables below. There are 1,000 total points available and attendance penalties are subtracted from the final total.
+| Upon successful completion of this course, the student should be able to: | Observable outcome | Assignment |
+| --- | --- | --- |
+| 1. Create an illustration that includes a complex pattern | 2 |
+| 2. Create a complex illustration from a photograph | 3 |
+| 3. Apply the design concepts of white space, symmetry, and balance to create aesthetically-pleasing illustration | 4 |
+| 4. Create an illustration that simplifies complex data | 5 |
+| 5. Create a complex 3D illustration | Final project |
 
 ### Prerequisite WU courses
 
 The successful completion of Principles of Design is required in preparation for this course.
 
-## Textbook &amp; supplies
+### Textbook &amp; supplies
 
 * Adobe Illustrator CC Classroom in a Book (2018 release)
 * [Dropbox](https://dropbox.com) account
 * [Sketch book](https://www.amazon.com/s/ref=sr_nr_n_1?fst=as%3Aoff&rh=n%3A8090734011%2Ck%3Asketchbook&sort=review-rank&keywords=sketchbook&ie=UTF8&qid=1535025377&rnid=2941120011)
+
+## Assignments, exams, and projects
+
+Students are evaluated across several areas, as described in the tables below. There are 1,000 total points available and attendance penalties are subtracted from the final total.
 
 | Book lessons | Points | Objective |
 | --- | --- | --- |

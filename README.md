@@ -24,7 +24,7 @@ By the end of this course, you will have a practical understanding of the tools 
 
 ## Observable outcomes
 
-Students are evaluated across several areas, as described in the table below. Attendance penalties are subtracted from the final total.
+Students are evaluated across several areas, as described in the tables below. There are 1,000 total points available and attendance penalties are subtracted from the final total.
 
 | Book lessons | Points | Objective |
 | --- | --- | --- |
@@ -34,7 +34,7 @@ Students are evaluated across several areas, as described in the table below. At
 | 4. Lesson 6 | 20 | 1, 2, 4 |
 | 5. Lesson 7, 8, 9, 10, 11, or 13 | 20 | 1, 2, 4 |
 
-| Illustration assignments | | |
+| Illustration assignments | Points | Objective |
 | --- | --- | --- |
 | 1. In-class illustrations | 100 | 1, 2, 4 |
 | 2. Pattern | 100 | 1, 2, 3, 4 |
@@ -42,12 +42,12 @@ Students are evaluated across several areas, as described in the table below. At
 | 4. Minimalist poster | 100 | 1, 2, 3, 4 |
 | 5. Infographic | 100 | 1, 2, 3, 4 |
 
-| Exams | | |
+| Exams | Points | Objective |
 | --- | --- | --- |
 | 1. Midterm exam | 100 | 1, 2, 4 |
 | 2. Final exam | 150 | 1, 2, 4 |
 
-| Final project |   |   |
+| Final project | Points | Objective |
 | --- | --- | --- |
 | 1. 3D character | 150 | 1, 2, 3, 4 |
 

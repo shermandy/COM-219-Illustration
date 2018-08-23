@@ -25,12 +25,15 @@ Pen tool overview, Dropbox intro, Intricate patterns
 
 Pathfinder panel, Brushes
 
+### Assingment
+* Intricate pattern
+
 ## Week 5 - Sep. 25 & 27
 
 Intricate patterns, Brushes, Tracing
 
 ### Assignment
-* Intricate pattern
+* Lesson 5
 
 ## Week 6 - Oct. 2 & 4
 
@@ -59,14 +62,14 @@ Pattern brush, Shape Builder
 Minimalist posters, Basic 3D illustration
 
 ### Assignments
-* Lesson 7
+* Minimalist poster
 
 ## Week 10 - Nov. 6 & 8
 
 Blend Tool, Infographics, Gradient Mesh
 
 ### Assignments
-* Minimalist poster
+* Lesson 7
 
 ## Week 11 - Nov. 13 & 15
 
@@ -80,7 +83,7 @@ Infographics, Vector warping, Reusable artwork
 Papercraft, Character illustration
 
 ### Assignment
-* Lesson 13
+* Lesson 7, 8, 9, 10, 11, or 13
 
 ## Week 13 - Nov. 27 & 29
 

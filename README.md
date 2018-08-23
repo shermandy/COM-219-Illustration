@@ -9,14 +9,9 @@ Send me a message on [Twitter](https://twitter.com/shermandy) or book an in-pers
 
 This course is an introduction to the tools and processes used to create illustrations for print and electronic media.  Topics will cover the complete design process from concept to final production.
 
-## Prerequisite courses &amp; knowledge
+### Course goal
 
-The successful completion of Principles of Design is required in preparation for this course.
-
-## Textbook &amp; supplies
-
-* Adobe Illustrator CC Classroom in a Book (2018 release)
-* [Dropbox](https://dropbox.com) account
+By the end of this course, you will have a practical understanding of the tools used by illustrators to create custom designs to communication a message. It is expected that you will be able to apply the knowledge when creating unique artwork.
 
 ## Course objectives
 
@@ -33,49 +28,27 @@ Students are evaluated across several areas, as described in the table below. At
 
 | Book lessons | Points | Objective |
 | --- | --- | --- |
-|
-1. Lesson 3
- | 20 | 1, 2, 4 |
-|
-1. Lesson 4
- | 20 | 1, 2, 4 |
-|
-1. Lesson 5
- | 20 | 1, 2, 4 |
-|
-1. Lesson 6
- | 20 | 1, 2, 4 |
-|
-1. Lesson 7, 8, 9, 10, 11, or 13
- | 20 | 1, 2, 4 |
-| Illustration assignments |
-|
-1. In-class illustrations
- | 100 | 1, 2, 4 |
-|
-1. Pattern
- | 100 | 1, 2, 3, 4 |
-|
-1. Self-illustration
- | 100 | 1, 2, 3, 4 |
-|
-1. Minimalist poster
- | 100 | 1, 2, 3, 4 |
-|
-1. Infographic
- | 100 | 1, 2, 3, 4 |
-| Midterm exam |
-|
-1. Midterm exam
- | 100 | 1, 2, 4 |
+| 1. Lesson 3 | 20 | 1, 2, 4 |
+| 2. Lesson 4 | 20 | 1, 2, 4 |
+| 3. Lesson 5 | 20 | 1, 2, 4 |
+| 4. Lesson 6 | 20 | 1, 2, 4 |
+| 5. Lesson 7, 8, 9, 10, 11, or 13 | 20 | 1, 2, 4 |
+
+| Illustration assignments | | |
+| --- | --- | --- |
+| 1. In-class illustrations | 100 | 1, 2, 4 |
+| 2. Pattern | 100 | 1, 2, 3, 4 |
+| 3. Self-illustration | 100 | 1, 2, 3, 4 |
+| 4. Minimalist poster | 100 | 1, 2, 3, 4 |
+| 5. Infographic | 100 | 1, 2, 3, 4 |
+
+| Exams | | |
+| 1. Midterm exam | 100 | 1, 2, 4 |
+| 2. Final exam | 150 | 1, 2, 4 |
+
 | Final project |   |   |
-|
-1. 3D character
- | 150 | 1, 2, 3, 4 |
-| Final exam |   |   |
-|
-1. Final exam
- | 150 | 1, 2, 4 |
+| 1. 3D character | 150 | 1, 2, 3, 4 |
+
 
 Grades will be assigned according to the following scale:
 
@@ -86,6 +59,15 @@ Grades will be assigned according to the following scale:
 | 83-87% | B |   | 63-67% | D |
 | 80-82% | B- |   | 60-62% | D- |
 | 78-79% | C+ |   | 0-59% | F |
+
+## Prerequisite courses &amp; knowledge
+
+The successful completion of Principles of Design is required in preparation for this course.
+
+## Textbook &amp; supplies
+
+* Adobe Illustrator CC Classroom in a Book (2018 release)
+* [Dropbox](https://dropbox.com) account
 
 ## Course Policies
 

@@ -1,20 +1,96 @@
 ## Tentative schedule
 
-|   | Activity | Dates | Assignment |
-| --- | --- | --- | --- |
-| 1 | Syllabus review, Review from COM 126 | 1/161/18 |   |
-| 2 | Illustrator interface, Editing color | 1/231/25 | &quot;Building Houses&quot; handout |
-| 3 | Pen tool overview, Dropbox intro, Intricate patterns | 1/302/1 | &quot;Zen of the Pen&quot; handoutLesson 3 |
-| 4 | Pathfinder panel, Brushes | 2/62/8 |   |
-| 5 | Intricate patterns, Brushes, Tracing | 2/132/15 | Intricate pattern, Photograph tracing |
-| 6 | Portrait illustration and tracing | 2/202/22 | Lesson 5 |
-| 7 | Bitmap editing, Illustration process, Mid-term | 2/273/1 | Self-illustration, mid-term exam |
-| FALL BREAK | | | |
-| 8 | Pattern brush, Shape Builder | 3/133/15 | Lesson 6 |
-| 9 | Minimalist posters, Basic 3D illustration | 3/203/22 | 3D illustration, Lesson 7 |
-| 10 | Blend Tool, Infographics, Gradient Mesh | 3/273/29 | Minimalist poster |
-| 11 | Infographics, Vector warping, Reusable artwork | 4/34/5 | Infographic |
-| 12 | Papercraft, Character illustration | 4/104/12 | Character illustration, Lesson 13 |
-| 13 | Perspective illustration, Isometric illustration | 4/174/19 | Isometric illustration |
-| 14 | Papercraft | 4/244/26 | Papercraft assignment |
-| 15 | Final exam – 8:30am | 5/1 |   |
+This schedule is subject to change.
+
+## Week 1 - Aug. 28 & 30
+
+Syllabus review, Review from Principles of Design
+
+## Week 2 - Sep. 4 & 6
+
+Illustrator interface, Editing color
+
+### Assignment
+* &quot;Building Houses&quot; handout
+
+## Week 3 - Sep. 11 & 13
+
+Pen tool overview, Dropbox intro, Intricate patterns
+
+### Assignment
+* &quot;Zen of the Pen&quot; handout
+* Lesson 3
+
+## Week 4 - Sep. 17 & 19
+
+Pathfinder panel, Brushes
+
+## Week 5 - Sep. 25 & 27
+
+Intricate patterns, Brushes, Tracing
+
+### Assignment
+* Intricate pattern
+
+## Week 6 - Oct. 2 & 4
+
+* Portrait illustration and tracing
+
+### Assignment
+* Lesson 5
+
+## Week 7 - Oct. 9 & 11
+
+Bitmap editing, Illustration process, Mid-term
+
+### Assignments
+* Self-illustration
+* Mid-term exam
+
+## Week 8 - Oct. 23 & 25
+
+Pattern brush, Shape Builder
+
+### Assignment
+* Lesson 6
+
+## Week 9 - Oct. 30 & Nov. 1
+
+Minimalist posters, Basic 3D illustration
+
+### Assignments
+* Lesson 7
+
+## Week 10 - Nov. 6 & 8
+
+Blend Tool, Infographics, Gradient Mesh
+
+### Assignments
+* Minimalist poster
+
+## Week 11 - Nov. 13 & 15
+
+Infographics, Vector warping, Reusable artwork
+
+### Assignment
+* Infographic
+
+## Week 12 - Nov. 20
+
+Papercraft, Character illustration
+
+### Assignment
+* Lesson 13
+
+## Week 13 - Nov. 27 & 29
+
+Perspective illustration, Isometric illustration
+
+## Week 14 - Dec. 4 & 6
+
+Advanced 3D illustration
+
+### Assigment
+* Advanced 3D illustration
+
+## Final exam - Dec. 13 at 11 a.m.

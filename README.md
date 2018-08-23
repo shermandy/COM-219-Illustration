@@ -43,10 +43,12 @@ Students are evaluated across several areas, as described in the table below. At
 | 5. Infographic | 100 | 1, 2, 3, 4 |
 
 | Exams | | |
+| --- | --- | --- |
 | 1. Midterm exam | 100 | 1, 2, 4 |
 | 2. Final exam | 150 | 1, 2, 4 |
 
 | Final project |   |   |
+| --- | --- | --- |
 | 1. 3D character | 150 | 1, 2, 3, 4 |
 
 

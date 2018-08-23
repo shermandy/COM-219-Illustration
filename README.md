@@ -25,7 +25,7 @@ By the end of this course, you will have a practical understanding of the tools 
 
 ### Learning outcomes
 
-| Upon successful completion of this course, the student should be able to: | Observable outcome | Assignment |
+| Upon successful completion of this course, the student should be able to: | Assignment |
 | --- | --- | --- |
 | 1. Create an illustration that includes a complex pattern | 2 |
 | 2. Create a complex illustration from a photograph | 3 |

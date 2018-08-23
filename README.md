@@ -1,23 +1,13 @@
 # COM-219-Illustration
-The Fall 2018 course repository for 219 Illustration at Waynesburg University.
+The Fall 2018 course repository for the Fall 2018 section of 219 Illustration at Waynesburg University.
 
-# COM 219 Digital Illustration
+## Contact information
 
-Spring 2018
+Send me a message on [Twitter](https://twitter.com/shermandy) or book an in-person appointment on [calend.ly](https://calendly.com/drsherman).
 
-Tuesday and Thursday, 9:30-10:45am
-Buhl 406
+## Course information
 
-| Instructor | Dr. Chad Sherman |
-| --- | --- |
-| E-mail | csherman@waynesburg.edu |
-| Phone | 724-852-3203 |
-| Office | Buhl Hall, 408A |
-| Hours | MWF 8-9am, 10-11amMW 2-3pmTR 8-9:30am, 1-2:30pmAppts: calendly.com/drsherman |
-
-## Course description
-
-An introduction to the tools and processes used to create digital illustrations for print and electronic media.  Topics will include technical illustration, scanning and image editing.
+This course is an introduction to the tools and processes used to create illustrations for print and electronic media.  Topics will cover the complete design process from concept to final production.
 
 ## Prerequisite courses &amp; knowledge
 
@@ -25,25 +15,17 @@ The successful completion of Principles of Design is required in preparation for
 
 ## Textbook &amp; supplies
 
-- --Adobe Illustrator CC Classroom in a Book (2017 release)
-- --Dropbox account
+* Adobe Illustrator CC Classroom in a Book (2018 release)
+* [Dropbox](https://dropbox.com) account
 
 ## Course objectives
 
 | Upon successful completion of this course, the student should be able to: | Observable outcome | Dept. objective |
 | --- | --- | --- |
-|
-1. Apply appropriate functions of Adobe Photoshop and Illustrator for the creation of digital illustration for use in print and electronic media
- | Assign. 1Exam 1Final project | 2, 3, 5 |
-|
-1. Apply appropriate techniques used for the creation of digital images
- | Assign. 1, 2Exam 1Final project | 2, 3, 5 |
-|
-1. Critique designs used in print and electronic media
- | Assign. 3, 4Exam 1Final project | 2, 9 |
-|
-1. Apply appropriate applications and techniques for effective visual communication
- | Assign. 5 Exam 1 | 2, 3, 5 |
+| 1. Apply appropriate functions of Adobe Photoshop and Illustrator for the creation of digital illustration for use in print and electronic media | Assign. 1<br/>Exam 1<br/>Final project | 2, 3, 5 |
+| 2. Apply appropriate techniques used for the creation of digital images | Assign. 1, 2<br/>Exam 1<br/>Final project | 2, 3, 5 |
+| 3. Critique designs used in print and electronic media | Assign. 3, 4<br/>Exam 1<br/>Final project | 2, 9 |
+| 4. Apply appropriate applications and techniques for effective visual communication | Assign. 5<br/>Exam 1 | 2, 3, 5 |
 
 ## Observable outcomes
 

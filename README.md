@@ -21,7 +21,7 @@ By the end of this course, you will have a practical understanding of the tools 
 | 2. Apply appropriate techniques used for the creation of illustrations | Assign. 1, 2<br/>Exam 1<br/>Final project | 2, 3, 5 |
 | 3. Critique designs used in various media | Assign. 3, 4<br/>Exam 1<br/>Final project | 2, 9 |
 | 4. Apply appropriate applications and techniques for effective visual communication | Assign. 5<br/>Exam 1 | 2, 3, 5 |
-| 5. Apply the complete design process to the creation of illustration | All |
+| 5. Apply the complete design process to the creation of illustration | All | 3,5 |
 
 ### Learning outcomes
 
@@ -71,6 +71,8 @@ Students are evaluated across several areas, as described in the tables below. T
 | Final project | Points | Objective |
 | --- | --- | --- |
 | 1. 3D character | 150 | 1, 2, 3, 4 |
+
+For each Illustration assignment and the final project, students will be required to submit several sketches before completing their design.
 
 ### WU grading scale
 

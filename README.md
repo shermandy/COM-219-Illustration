@@ -1,4 +1,4 @@
-# COM-219-Illustration
+# COM 219 Illustration
 The Fall 2018 course repository for COM 219 Illustration at Waynesburg University.
 
 ## Contact information
